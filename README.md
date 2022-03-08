@@ -1,4 +1,4 @@
-Bem Vindo(a) ao Meu Perfil!
+# Bem Vindo(a) ao Meu Perfil! :)
 <div>
   <a href="https://github.com/Abreeu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abreeu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -12,8 +12,6 @@ Bem Vindo(a) ao Meu Perfil!
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
-
  <div> 
 
   <a href="https://instagram.com/abreeuguii" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
