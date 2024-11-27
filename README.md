@@ -47,12 +47,12 @@ Ferramentas de desenvolvimento
  
  <br>
  
+ <!-- Contato -->
  <div> 
-<!-- Contato -->
- ## Onde me encontrar
+ <h2>Onde me encontrar</h2>
+    <br/>
   <a href = "mailto:gulherme95abreu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  style="height: 25px" target="_blank"></a>
   <a href="https://www.linkedin.com/in/abreeu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 25px;" target="_blank"></a>
- 
+    
   ![Snake animation](https://github.com/abreeu/abreeu/blob/output/github-contribution-grid-snake.svg)
-
 </div>
