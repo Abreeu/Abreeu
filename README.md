@@ -16,7 +16,7 @@
 
 **PORTIFOLIO** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Medium%20Skin%20Tone.png" alt="Backhand Index Pointing Down Medium Skin Tone" width="25" height="25"/>
  <br/>
- [GA-DEVELOPEMENT](https://dev-abreeu.vercel.app/)
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> [GA-DEVELOPEMENT](https://dev-abreeu.vercel.app/)
 
 ## Minhas Skills  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Magic%20Wand.png" alt="Magic Wand" width="25" height="25" />
 <!-- Front-End -->
