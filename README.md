@@ -1,8 +1,5 @@
 # Bem Vindo(a) ao Meu Perfil! :relaxed: :+1:
-   :construction: (:brazil:)
-        Perfil em Manutenção / (:us:) Maintenance Profile :construction:
-        <br>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhyeTM1ODZvYzN5d2s5eDBxZGQ2ODBsMW5mcmgyNWtlZjl6OW1qbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vq3SHQo30fEcsoAvuw/giphy.gif"/>
+  
         
 <!-- Sobre mim -->
 ## Sobre mim :man_technologist:
@@ -17,13 +14,15 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> -Trabalhando em projetos pessoais.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> -Aprendendo mais sobre Frameworks e Bibliotecas.
 
+**PORTIFOLIO** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Medium%20Skin%20Tone.png" alt="Backhand Index Pointing Down Medium Skin Tone" width="25" height="25"/>
+ <br/>
+ [GA-DEVELOPEMENT](https://dev-abreeu.vercel.app/)
 
-## Minhas Skills
-
+## Minhas Skills  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Magic%20Wand.png" alt="Magic Wand" width="25" height="25" />
 <!-- Front-End -->
 Front-end
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,typescript,react,next" alt="Front-End" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,typescript,react,next" alt="Front-End" />
 <br>
 
 <!-- Back-End -->
@@ -44,15 +43,13 @@ Ferramentas de desenvolvimento
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abreeu&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
- 
- <br>
- 
+
  <!-- Contato -->
  <div> 
- <h2>Onde me encontrar</h2>
+ <h2>Onde me encontrar <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /></h2>
     <br/>
+    
   <a href = "mailto:gulherme95abreu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  style="height: 25px" target="_blank"></a>
   <a href="https://www.linkedin.com/in/abreeu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 25px;" target="_blank"></a>
     
-  ![Snake animation](https://github.com/abreeu/abreeu/blob/output/github-contribution-grid-snake.svg)
 </div>
