@@ -4,15 +4,15 @@
 <!-- Sobre mim -->
 ## Sobre mim :man_technologist:
 
-<p>Olá! Me Chamo Guilherme, um Desenvolvedor júnior apaixonado por aprender e evoluir no mundo da tecnologia que está buscando uma oportunidade no mercado, em desenvolvimento de habilidades tanto front-end quanto back-end, na construção de projetos que me desafiem a aprimorar minhas capacidades técnicas.
+<p>Olá! Me Chamo Guilherme, um Desenvolvedor apaixonado por aprender e evoluir no mundo da tecnologia em desenvolvimento constante de habilidades tanto front-end quanto back-end, na construção de projetos que me desafiem a aprimorar minhas capacidades técnicas.
 </p>
 <p>Estou sempre buscando novos desafios e oportunidades de crescimento, e me dedico a criar soluções eficientes e escaláveis. Acredito no poder do código limpo e bem estruturado para entregar produtos de alta qualidade.</p>
 <p> Embora ainda esteja no início da minha jornada, tenho experiência passadas, como estágio, projetos pessoais. Meu objetivo é continuar a expandir meu conhecimento, colaborar com outros desenvolvedores e aprender com cada projeto que eu enfrente.</p>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="25" height="25" /> -Em busca de conhecimento e novos desafios.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png" alt="Student Light Skin Tone" width="25" height="25" /> -Recém formado em Análise e Desenvolvimento de Sistemas.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png" alt="Student Light Skin Tone" width="25" height="25" /> -Formado em Análise e Desenvolvimento de Sistemas.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> -Trabalhando em projetos pessoais.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> -Aprendendo mais sobre Frameworks e Bibliotecas.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> -Aprendizado constante sobre Frameworks e Bibliotecas.
 
 **PORTIFOLIO** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down%20Medium%20Skin%20Tone.png" alt="Backhand Index Pointing Down Medium Skin Tone" width="25" height="25"/>
  <br/>
